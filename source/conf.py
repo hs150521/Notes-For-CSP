@@ -22,7 +22,7 @@ copyright = '2023, YUANZL'
 author = 'YUANZL'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1.0'
+release = 'v2.0'
 
 
 # -- General configuration ---------------------------------------------------
